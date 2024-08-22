@@ -1,4 +1,4 @@
-package likhitha;
+package cse;
 
 public class prime {
 
